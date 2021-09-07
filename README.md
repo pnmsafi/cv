@@ -1,4 +1,4 @@
 # cv
 
 
-https://github.com/pnmsafi/cv/
+https://pnmsafi.github.io/cv/CV.HTML
